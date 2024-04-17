@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.68
+hotspot_y = 0.09
+
+define_size = 22, right_ptr_000.png, 25
+define_size = 24, right_ptr_001.png, 25
+define_size = 28, right_ptr_002.png, 25
+define_size = 32, right_ptr_003.png, 25
+define_size = 40, right_ptr_004.png, 25
+define_size = 48, right_ptr_005.png, 25
+define_size = 56, right_ptr_006.png, 25
+define_size = 64, right_ptr_007.png, 25
+define_size = 72, right_ptr_008.png, 25
+define_size = 80, right_ptr_009.png, 25
+define_size = 88, right_ptr_010.png, 25
+define_size = 96, right_ptr_011.png, 25
+
+define_override = draft_small
+define_override = draft_large

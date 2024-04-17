@@ -1,0 +1,21 @@
+resize_algorithm = none
+hotspot_x = 0.50
+hotspot_y = 0.50
+
+define_size = 22, cross_000.png, 25
+define_size = 24, cross_001.png, 25
+define_size = 28, cross_002.png, 25
+define_size = 32, cross_003.png, 25
+define_size = 40, cross_004.png, 25
+define_size = 48, cross_005.png, 25
+define_size = 56, cross_006.png, 25
+define_size = 64, cross_007.png, 25
+define_size = 72, cross_008.png, 25
+define_size = 80, cross_009.png, 25
+define_size = 88, cross_010.png, 25
+define_size = 96, cross_011.png, 25
+
+define_override = tcross
+define_override = cross_reverse
+define_override = diamond_cross
+define_override = color-picker
