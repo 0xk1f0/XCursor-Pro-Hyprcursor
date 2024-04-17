@@ -10,11 +10,11 @@ Converted themes are located in the `themes/` folder. If you have `hyprcursor` i
 
 ```bash
 # for the dark version
-hyprcursor-util --create themes/XCursor-Pro-Dark-Hypr/
+hyprcursor-util --create themes/XCursor-Pro-Hyprcursor-Dark/
 # for the light version
-hyprcursor-util --create themes/XCursor-Pro-Light-Hypr/
+hyprcursor-util --create themes/XCursor-Pro-Hyprcursor-Light/
 # for the red version
-hyprcursor-util --create themes/XCursor-Pro-Red-Hypr/
+hyprcursor-util --create themes/XCursor-Pro-Hyprcursor-Red/
 ```
 
 The created themes should then be present in the `themes/` directory.
