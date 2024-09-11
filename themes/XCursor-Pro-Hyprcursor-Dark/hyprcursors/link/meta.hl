@@ -1,19 +1,21 @@
 resize_algorithm = none
-hotspot_x = 0.59
-hotspot_y = 0.27
+hotspot_x = 0.44
+hotspot_y = 0.38
 
-define_size = 22, link_000.png, 25
-define_size = 24, link_001.png, 25
-define_size = 28, link_002.png, 25
-define_size = 32, link_003.png, 25
-define_size = 40, link_004.png, 25
-define_size = 48, link_005.png, 25
-define_size = 56, link_006.png, 25
-define_size = 64, link_007.png, 25
-define_size = 72, link_008.png, 25
-define_size = 80, link_009.png, 25
-define_size = 88, link_010.png, 25
-define_size = 96, link_011.png, 25
+define_size = 16, link_000.png, 50
+define_size = 20, link_001.png, 50
+define_size = 22, link_002.png, 50
+define_size = 24, link_003.png, 50
+define_size = 28, link_004.png, 50
+define_size = 32, link_005.png, 50
+define_size = 40, link_006.png, 50
+define_size = 48, link_007.png, 50
+define_size = 56, link_008.png, 50
+define_size = 64, link_009.png, 50
+define_size = 72, link_010.png, 50
+define_size = 80, link_011.png, 50
+define_size = 88, link_012.png, 50
+define_size = 96, link_013.png, 50
 
 define_override = 3085a0e285430894940527032f8b26df
 define_override = 640fb0e74195791501fd1ed57b41487f

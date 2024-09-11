@@ -1,17 +1,19 @@
 resize_algorithm = none
-hotspot_x = 0.50
-hotspot_y = 0.50
+hotspot_x = 0.19
+hotspot_y = 0.19
 
-define_size = 22, ul_angle_000.png, 25
-define_size = 24, ul_angle_001.png, 25
-define_size = 28, ul_angle_002.png, 25
-define_size = 32, ul_angle_003.png, 25
-define_size = 40, ul_angle_004.png, 25
-define_size = 48, ul_angle_005.png, 25
-define_size = 56, ul_angle_006.png, 25
-define_size = 64, ul_angle_007.png, 25
-define_size = 72, ul_angle_008.png, 25
-define_size = 80, ul_angle_009.png, 25
-define_size = 88, ul_angle_010.png, 25
-define_size = 96, ul_angle_011.png, 25
+define_size = 16, ul_angle_000.png, 50
+define_size = 20, ul_angle_001.png, 50
+define_size = 22, ul_angle_002.png, 50
+define_size = 24, ul_angle_003.png, 50
+define_size = 28, ul_angle_004.png, 50
+define_size = 32, ul_angle_005.png, 50
+define_size = 40, ul_angle_006.png, 50
+define_size = 48, ul_angle_007.png, 50
+define_size = 56, ul_angle_008.png, 50
+define_size = 64, ul_angle_009.png, 50
+define_size = 72, ul_angle_010.png, 50
+define_size = 80, ul_angle_011.png, 50
+define_size = 88, ul_angle_012.png, 50
+define_size = 96, ul_angle_013.png, 50
 

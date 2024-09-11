@@ -1,19 +1,21 @@
 resize_algorithm = none
 hotspot_x = 0.50
-hotspot_y = 0.36
+hotspot_y = 0.31
 
-define_size = 22, move_000.png, 25
-define_size = 24, move_001.png, 25
-define_size = 28, move_002.png, 25
-define_size = 32, move_003.png, 25
-define_size = 40, move_004.png, 25
-define_size = 48, move_005.png, 25
-define_size = 56, move_006.png, 25
-define_size = 64, move_007.png, 25
-define_size = 72, move_008.png, 25
-define_size = 80, move_009.png, 25
-define_size = 88, move_010.png, 25
-define_size = 96, move_011.png, 25
+define_size = 16, move_000.png, 50
+define_size = 20, move_001.png, 50
+define_size = 22, move_002.png, 50
+define_size = 24, move_003.png, 50
+define_size = 28, move_004.png, 50
+define_size = 32, move_005.png, 50
+define_size = 40, move_006.png, 50
+define_size = 48, move_007.png, 50
+define_size = 56, move_008.png, 50
+define_size = 64, move_009.png, 50
+define_size = 72, move_010.png, 50
+define_size = 80, move_011.png, 50
+define_size = 88, move_012.png, 50
+define_size = 96, move_013.png, 50
 
 define_override = grabbing
 define_override = pointer_move

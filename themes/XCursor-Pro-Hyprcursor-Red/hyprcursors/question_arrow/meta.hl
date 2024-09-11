@@ -1,19 +1,21 @@
 resize_algorithm = none
-hotspot_x = 0.23
-hotspot_y = 0.09
+hotspot_x = 0.12
+hotspot_y = 0.12
 
-define_size = 22, question_arrow_000.png, 25
-define_size = 24, question_arrow_001.png, 25
-define_size = 28, question_arrow_002.png, 25
-define_size = 32, question_arrow_003.png, 25
-define_size = 40, question_arrow_004.png, 25
-define_size = 48, question_arrow_005.png, 25
-define_size = 56, question_arrow_006.png, 25
-define_size = 64, question_arrow_007.png, 25
-define_size = 72, question_arrow_008.png, 25
-define_size = 80, question_arrow_009.png, 25
-define_size = 88, question_arrow_010.png, 25
-define_size = 96, question_arrow_011.png, 25
+define_size = 16, question_arrow_000.png, 50
+define_size = 20, question_arrow_001.png, 50
+define_size = 22, question_arrow_002.png, 50
+define_size = 24, question_arrow_003.png, 50
+define_size = 28, question_arrow_004.png, 50
+define_size = 32, question_arrow_005.png, 50
+define_size = 40, question_arrow_006.png, 50
+define_size = 48, question_arrow_007.png, 50
+define_size = 56, question_arrow_008.png, 50
+define_size = 64, question_arrow_009.png, 50
+define_size = 72, question_arrow_010.png, 50
+define_size = 80, question_arrow_011.png, 50
+define_size = 88, question_arrow_012.png, 50
+define_size = 96, question_arrow_013.png, 50
 
 define_override = d9ce0ab605698f320427677b458ad60b
 define_override = whats_this
